@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<div id="container">
+
+    @Html.Partial("_GetforStatus", ViewData["status"])
+
+</div>
+<p>Use this area to provide additional information.</p>
+
+<script src="@Url.Content("~/scripts/jquery-3.3.1.min.js")" type="text/javascript">
+
+    $(document).ready(function (e) {
+        alert('Привет')
+    });
+
+    $(function () {
+        setInterval(function () { $('#container').load('/Home/_GetforStatus'); }, 1000);
+    });
+</script>

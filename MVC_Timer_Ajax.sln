@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Timer_Ajax", "MVC_Timer_Ajax\MVC_Timer_Ajax.csproj", "{5298DC0E-E3D2-4736-80DD-87624CC4A05B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{AF5B0218-F95F-495C-9404-3242A7505580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Debug|x64.Build.0 = Debug|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Debug|x86.Build.0 = Debug|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Release|x64.ActiveCfg = Release|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Release|x64.Build.0 = Release|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Release|x86.ActiveCfg = Release|Any CPU
+		{5298DC0E-E3D2-4736-80DD-87624CC4A05B}.Release|x86.Build.0 = Release|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Debug|x64.Build.0 = Debug|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Debug|x86.Build.0 = Debug|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Release|x64.ActiveCfg = Release|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Release|x64.Build.0 = Release|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Release|x86.ActiveCfg = Release|Any CPU
+		{AF5B0218-F95F-495C-9404-3242A7505580}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D769606-A771-4A0F-A056-D6655E6C102E}
+	EndGlobalSection
+EndGlobal
